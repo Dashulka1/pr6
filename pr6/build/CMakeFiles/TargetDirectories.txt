@@ -1,0 +1,4 @@
+/mnt/c/Users/GANDC/Study/4/Системное программирование/практики/pr6_sysprog/build/CMakeFiles/task1.dir
+/mnt/c/Users/GANDC/Study/4/Системное программирование/практики/pr6_sysprog/build/CMakeFiles/task2.dir
+/mnt/c/Users/GANDC/Study/4/Системное программирование/практики/pr6_sysprog/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/GANDC/Study/4/Системное программирование/практики/pr6_sysprog/build/CMakeFiles/rebuild_cache.dir
