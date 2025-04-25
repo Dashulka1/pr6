@@ -21,7 +21,7 @@
 ## Сборка
 
 ```bash
-git clone https://git.gandc.ru/gandc/pr6_sysprog.git
+git clone https://github.com/Dashulka1/pr6.git
 mkdir build && cd build
 cmake ..
 make
